@@ -1,0 +1,93 @@
+{
+  "Time": "2024-04-16T17:56:32+03:00",
+  "TimeStamp": 1713279392,
+  "TimeZone": "Europe/Moscow",
+  "Execution": 0.0932,
+  "Method": "LocationByQuery",
+  "Result": {
+    "Suggestions": [
+      {
+        "Region": null,
+        "Country": {
+          "Region": null,
+          "Code": "RU",
+          "Name": "Россия",
+          "IATA_Region_Code": null,
+          "IATA_TC_Code": null
+        },
+        "State": null,
+        "City": {
+          "Date": 1713253131,
+          "DateUpdate": 1713253131,
+          "Region": null,
+          "Country": "RU",
+          "State": null,
+          "Code": "MOW",
+          "Name": "Москва",
+          "Lat": 55.6556,
+          "Lon": 37.5222,
+          "TimeZone": "EUROPE/MOSCOW",
+          "Popularity": 0,
+          "Visible": true,
+          "Status": "Active",
+          "Params": []
+        },
+        "Code": "DME",
+        "Name": "Домодедово",
+        "Lat": 55.75,
+        "Lon": 37.62,
+        "TimeZone": null,
+        "Popularity": 0,
+        "Visible": true,
+        "Status": "Active",
+        "Params": [],
+        "Type": "Airport"
+      },
+      {
+        "Region": "",
+        "Country": {
+          "Region": null,
+          "Code": "TR",
+          "Name": "Турция",
+          "IATA_Region_Code": null,
+          "IATA_TC_Code": null
+        },
+        "State": "",
+        "City": {
+          "Date": 1713388186,
+          "DateUpdate": 1713388186,
+          "Region": null,
+          "Country": "TR",
+          "State": null,
+          "Code": "IST",
+          "Name": "Стамбул",
+          "Lat": 40.9767,
+          "Lon": 28.8153,
+          "TimeZone": "EUROPE/ISTANBUL",
+          "Popularity": 0,
+          "Visible": true,
+          "Status": "Active",
+          "Params": []
+        },
+        "Code": "SAW",
+        "Name": "Сабиха Гёкчен",
+        "Lat": 39.77,
+        "Lon": -87.5,
+        "TimeZone": null,
+        "Popularity": 0,
+        "Visible": true,
+        "Status": "Active",
+        "Params": [],
+        "Type": "Airport"
+      }
+    ]
+  },
+  "Errors": [
+    {
+      "Type": "Exception",
+      "Code": -32600,
+      "Message": "Invalid Request",
+      "Description": ""
+    }
+  ]
+}
