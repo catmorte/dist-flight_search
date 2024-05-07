@@ -1,4 +1,6 @@
 {
+  "somethingWentWrong": "Something went wrong",
+  "yourBooking": "Your booking",
   "errorValidationTravelers": "Please, check form data and try again",
   "errorValidationLookup": "Please, specify search parameters",
   "recordNumber": "Record number",

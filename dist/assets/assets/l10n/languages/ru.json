@@ -1,4 +1,6 @@
 {
+  "somethingWentWrong": "Что-то пошло не так",
+  "yourBooking":"Ваша бронь",
   "errorValidationTravelers": "Пожалуйста, проверьте введенные данные и попробуйте еще раз",
   "errorValidationLookup": "Пожалуйста, укажите параметры поиска",
   "recordNumber": "Номер бронирования",
