@@ -1,5 +1,55 @@
 /*! vant/es */
 
+/*! vant/es */
+
+/*! ../components/cmp.flight_details_variant_point.vue */
+
+/*! vant/es */
+
+/*! vant/es/config-provider/style/index */
+
+/*! vant/es/popup/style/index */
+
+/*! ./cmp.flight_details_variant_point.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flight_details_variant_point.vue?vue&type=script&setup=true&lang=js */
+
+/*! ../components/cmp.flights_item_variant.vue */
+
+/*! ./App.vue.js?vue&type=template&id=62433c77!=!../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./App.vue?vue&type=template&id=62433c77 */
+
+/*! vue-router */
+
+/*! vant/es */
+
+/*! vant/es */
+
+/*! vue */
+
+/*! vue */
+
+/*! vant/es/action-bar/style/index */
+
+/*! ./view.suggested_flights.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.suggested_flights.vue?vue&type=script&setup=true&lang=js */
+
+/*! vue-router */
+
+/*! vant/es/list/style/index */
+
+/*! vue */
+
+/*! vant/es/action-bar/style/index */
+
+/*! vant/es */
+
+/*! vant */
+
+/*! ../store/locations */
+
+/*! pinia */
+
+/*! vant/es/popup/style/index */
+
+/*! vant/es */
+
 /*! ./cmp.travelers_traveler.vue.css?vue&type=style&index=0&id=b74205ac&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.travelers_traveler.vue?vue&type=style&index=0&id=b74205ac&scoped=true&lang=css */
 
 /*! vant/es */
@@ -34,9 +84,11 @@
 
 /*! ./cmp.flight_details_variant_point.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flight_details_variant_point.vue?vue&type=script&setup=true&lang=js */
 
-/*! ./view.search_form.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.search_form.vue?vue&type=script&setup=true&lang=js */
+/*! ./views/view.flight_info.vue */
 
 /*! vant/es/nav-bar/style/index */
+
+/*! ./view.search_form.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.search_form.vue?vue&type=script&setup=true&lang=js */
 
 /*! vant/es/cell/style/index */
 
@@ -52,11 +104,15 @@
 
 /*! vant/es */
 
+/*! primeicons/primeicons.css */
+
 /*! core-js/modules/es.array.push.js */
 
 /*! vant/es/list/style/index */
 
 /*! ../components/popup.travelers_info.vue */
+
+/*! @config */
 
 /*! ./cmp.flights_item.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item.vue?vue&type=script&setup=true&lang=js */
 
@@ -84,13 +140,15 @@
 
 /*! vant/es/loading/style/index */
 
-/*! ./cmp.flight_details_variant.vue.css?vue&type=style&index=0&id=152799a0&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flight_details_variant.vue?vue&type=style&index=0&id=152799a0&scoped=true&lang=css */
-
 /*! vant/es */
+
+/*! ./cmp.flight_details_variant.vue.css?vue&type=style&index=0&id=152799a0&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flight_details_variant.vue?vue&type=style&index=0&id=152799a0&scoped=true&lang=css */
 
 /*! vue */
 
 /*! ./popup.citizenships.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.citizenships.vue?vue&type=script&setup=true&lang=js */
+
+/*! pinia */
 
 /*! vue */
 
@@ -98,9 +156,9 @@
 
 /*! ../components/popup.locations.vue */
 
-/*! ./cmp.flights_item_variant_layover.vue.css?vue&type=style&index=0&id=7af5df6b&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item_variant_layover.vue?vue&type=style&index=0&id=7af5df6b&scoped=true&lang=css */
-
 /*! vue */
+
+/*! ./cmp.flights_item_variant_layover.vue.css?vue&type=style&index=0&id=7af5df6b&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item_variant_layover.vue?vue&type=style&index=0&id=7af5df6b&scoped=true&lang=css */
 
 /*! core-js/modules/esnext.async-iterator.find.js */
 
@@ -112,8 +170,6 @@
 
 /*! vant/es */
 
-/*! ./views/view.flight_info.vue */
-
 /*! vant/es/popup/style/index */
 
 /*! ../store/travelers */
@@ -122,21 +178,19 @@
 
 /*! vue */
 
-/*! primeicons/primeicons.css */
-
 /*! ../store/flights */
 
 /*! vant/es/field/style/index */
 
 /*! ./view.travelers_form.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.travelers_form.vue?vue&type=script&setup=true&lang=js */
 
-/*! @config */
-
 /*! ../store/locations */
 
 /*! core-js/modules/esnext.async-iterator.map.js */
 
 /*! core-js/modules/es.error.cause.js */
+
+/*! ./travelers */
 
 /*! vant */
 
@@ -152,9 +206,9 @@
 
 /*! ../store/flights */
 
-/*! pinia */
-
 /*! vue-router */
+
+/*! moment */
 
 /*! vant/es */
 
@@ -186,7 +240,7 @@
 
 /*! vant/es/action-bar/style/index */
 
-/*! ./travelers */
+/*! ./views/view.suggested_flights.vue */
 
 /*! vant/es */
 
@@ -216,13 +270,15 @@
 
 /*! vant/es */
 
-/*! moment */
-
 /*! vue */
 
 /*! vant/es */
 
 /*! ./view.travelers_form.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.travelers_form.vue?vue&type=script&setup=true&lang=js */
+
+/*! vue */
+
+/*! @config */
 
 /*! moment */
 
@@ -239,8 +295,6 @@
 /*! ../store/airlines */
 
 /*! vue */
-
-/*! ./views/view.suggested_flights.vue */
 
 /*! ../store/theme */
 
@@ -270,6 +324,8 @@
 
 /*! vant/es */
 
+/*! ./views/view.travelers_form.vue */
+
 /*! vant/es/calendar/style/index */
 
 /*! ../store/theme */
@@ -284,15 +340,15 @@
 
 /*! vant/es/stepper/style/index */
 
-/*! vue */
+/*! vant */
 
 /*! vue */
-
-/*! @config */
 
 /*! vant/es/image/style/index */
 
 /*! vant/es/cell-group/style/index */
+
+/*! ./router */
 
 /*! core-js/modules/esnext.iterator.constructor.js */
 
@@ -322,6 +378,8 @@
 
 /*! ../utils/debouncer */
 
+/*! core-js/modules/es.error.cause.js */
+
 /*! vant/es */
 
 /*! ../store/theme */
@@ -331,8 +389,6 @@
 /*! vant/es */
 
 /*! vant/es/cell-group/style/index */
-
-/*! ./views/view.travelers_form.vue */
 
 /*! vue */
 
@@ -344,15 +400,15 @@
 
 /*! pinia */
 
-/*! vant */
+/*! axios */
 
 /*! vant/es */
-
-/*! ./router */
 
 /*! vant/es/toast/style/index */
 
 /*! vant/es */
+
+/*! @vant/touch-emulator */
 
 /*! vant/es */
 
@@ -376,6 +432,8 @@
 
 /*! vue */
 
+/*! vant/es/locale/lang/ru-RU */
+
 /*! ./cmp.flights_item_variant.vue.css?vue&type=style&index=0&id=0cc4766a&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item_variant.vue?vue&type=style&index=0&id=0cc4766a&scoped=true&lang=css */
 
 /*! ../components/cmp.flights_item_variant_layover.vue */
@@ -386,17 +444,23 @@
 
 /*! core-js/modules/es.error.cause.js */
 
+/*! core-js/modules/esnext.async-iterator.map.js */
+
 /*! ./cmp.flights_item.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item.vue?vue&type=script&setup=true&lang=js */
 
 /*! vue */
 
+/*! ./views/view.booking.vue */
+
 /*! vant/es */
+
+/*! pinia */
 
 /*! ../store/flights */
 
-/*! vant/es */
-
 /*! vue */
+
+/*! vant/es */
 
 /*! ./cmp.booking_traveler.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.booking_traveler.vue?vue&type=script&setup=true&lang=js */
 
@@ -408,7 +472,9 @@
 
 /*! vant/es */
 
-/*! axios */
+/*! ./views/view.search_form.vue */
+
+/*! ./index.css */
 
 /*! core-js/modules/esnext.iterator.find.js */
 
@@ -424,25 +490,27 @@
 
 /*! vant/es */
 
-/*! @vant/touch-emulator */
-
 /*! vant/es/cell-group/style/index */
 
 /*! vant/es/field/style/index */
 
 /*! vue */
 
+/*! core-js/modules/es.array.push.js */
+
 /*! core-js/modules/esnext.iterator.filter.js */
 
-/*! ../../node_modules/vue-loader/dist/exportHelper.js */
-
 /*! ../components/cmp.travelers_traveler.vue */
+
+/*! ../../node_modules/vue-loader/dist/exportHelper.js */
 
 /*! core-js/modules/es.array.push.js */
 
 /*! vue */
 
 /*! core-js/modules/es.array.push.js */
+
+/*! moment */
 
 /*! pinia */
 
@@ -452,37 +520,23 @@
 
 /*! ./popup.locations.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.locations.vue?vue&type=script&setup=true&lang=js */
 
-/*! vant/es/locale/lang/ru-RU */
-
 /*! ../store/travelers */
 
 /*! vant/es */
 
 /*! vant/es/action-bar-button/style/index */
 
-/*! core-js/modules/es.error.cause.js */
-
-/*! core-js/modules/esnext.async-iterator.map.js */
-
 /*! vant/es/config-provider/style/index */
 
 /*! vant/es/cell-group/style/index */
 
-/*! ./views/view.booking.vue */
-
 /*! vant/es/action-bar-button/style/index */
-
-/*! pinia */
 
 /*! core-js/modules/es.array.push.js */
 
 /*! vant/es/config-provider/style/index */
 
 /*! pinia */
-
-/*! ./views/view.search_form.vue */
-
-/*! ./index.css */
 
 /*! vant/es/loading/style/index */
 
@@ -498,6 +552,8 @@
 
 /*! vant/es/loading/style/index */
 
+/*! core-js/modules/es.array.push.js */
+
 /*! vant/es */
 
 /*! vue */
@@ -508,15 +564,11 @@
 
 /*! ../../node_modules/vue-loader/dist/exportHelper.js */
 
-/*! core-js/modules/es.array.push.js */
-
 /*! vue */
 
 /*! ./cmp.travelers_traveler.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.travelers_traveler.vue?vue&type=script&setup=true&lang=js */
 
 /*! pinia */
-
-/*! moment */
 
 /*! ../../node_modules/vue-loader/dist/exportHelper.js */
 
@@ -538,6 +590,8 @@
 
 /*! ../store/theme */
 
+/*! axios */
+
 /*! vue */
 
 /*! vant/es */
@@ -556,6 +610,8 @@
 
 /*! ../components/cmp.flight_details_variant.vue */
 
+/*! core-js/modules/esnext.iterator.map.js */
+
 /*! ../store/locations */
 
 /*! vant/es */
@@ -568,13 +624,13 @@
 
 /*! ../components/cmp.flight_details_variant_layover.vue */
 
+/*! ./App.vue */
+
 /*! ./cmp.booking_traveler.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.booking_traveler.vue?vue&type=script&setup=true&lang=js */
 
 /*! ../components/popup.flight_info.vue */
 
 /*! ./popup.flight_info.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.flight_info.vue?vue&type=script&setup=true&lang=js */
-
-/*! core-js/modules/es.array.push.js */
 
 /*! ./cmp.travelers_traveler.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.travelers_traveler.vue?vue&type=script&setup=true&lang=js */
 
@@ -582,7 +638,11 @@
 
 /*! core-js/modules/esnext.iterator.find.js */
 
+/*! vue-router */
+
 /*! moment */
+
+/*! vant/lib/index.css */
 
 /*! ./cmp.flights_item_variant.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item_variant.vue?vue&type=script&setup=true&lang=js */
 
@@ -592,68 +652,8 @@
 
 /*! vant/es */
 
+/*! pinia */
+
 /*! vant */
 
 /*! vue */
-
-/*! vant/es */
-
-/*! vant/es */
-
-/*! ../components/cmp.flight_details_variant_point.vue */
-
-/*! vant/es */
-
-/*! axios */
-
-/*! vant/es/config-provider/style/index */
-
-/*! vant/es/popup/style/index */
-
-/*! ./cmp.flight_details_variant_point.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flight_details_variant_point.vue?vue&type=script&setup=true&lang=js */
-
-/*! ../components/cmp.flights_item_variant.vue */
-
-/*! ./App.vue.js?vue&type=template&id=62433c77!=!../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./App.vue?vue&type=template&id=62433c77 */
-
-/*! vue-router */
-
-/*! vant/es */
-
-/*! vant/es */
-
-/*! core-js/modules/esnext.iterator.map.js */
-
-/*! vue */
-
-/*! vue */
-
-/*! ./App.vue */
-
-/*! vant/es/action-bar/style/index */
-
-/*! ./view.suggested_flights.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.suggested_flights.vue?vue&type=script&setup=true&lang=js */
-
-/*! vue-router */
-
-/*! vant/es/list/style/index */
-
-/*! vue */
-
-/*! vant/es/action-bar/style/index */
-
-/*! vant/es */
-
-/*! vant */
-
-/*! vue-router */
-
-/*! ../store/locations */
-
-/*! pinia */
-
-/*! vant/lib/index.css */
-
-/*! pinia */
-
-/*! vant/es/popup/style/index */
