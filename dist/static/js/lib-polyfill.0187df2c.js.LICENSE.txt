@@ -354,11 +354,11 @@
 
 /*! ../internals/function-call */
 
+/*! ../internals/set-union */
+
 /*! ../internals/get-method */
 
 /*! ../internals/get-iterator-direct */
-
-/*! ../internals/set-union */
 
 /*! ../internals/function-bind-context */
 
