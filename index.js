@@ -6,8 +6,10 @@ const cors = require("cors");
 const processors = require("./processors");
 const history = require("./inmems/history");
 const locations = require("./inmems/locations");
-const port = 3000;
+const port = 8000;
 const app = express();
+app.use(require("morgan")("dev"));
+
 app.use(cors());
 app.use(express.static(path.join(__dirname, "dist")));
 
