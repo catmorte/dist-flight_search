@@ -1,18 +1,130 @@
+/*! core-js/modules/esnext.set.is-disjoint-from.js */
+
+/*! vue */
+
+/*! ./popup.citizenships.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.citizenships.vue?vue&type=script&setup=true&lang=js */
+
 /*! vant/es */
+
+/*! vant/es/calendar/style/index */
+
+/*! vant/es/nav-bar/style/index */
+
+/*! ../../node_modules/vue-loader/dist/exportHelper.js */
+
+/*! vant/es */
+
+/*! ./views/view.page_not_found.vue */
+
+/*! vant/es/nav-bar/style/index */
+
+/*! vue */
+
+/*! core-js/modules/esnext.set.is-subset-of.v2.js */
+
+/*! vant/es/list/style/index */
+
+/*! ./cmp.flights_item_variant.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item_variant.vue?vue&type=script&setup=true&lang=js */
+
+/*! vant/es/cell-group/style/index */
+
+/*! vue */
+
+/*! ./popup.locations.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.locations.vue?vue&type=script&setup=true&lang=js */
+
+/*! vant/es */
+
+/*! ../store/locations */
+
+/*! vue */
+
+/*! ../store/theme */
+
+/*! ./App.vue.js?vue&type=script&setup=true&lang=js!=!../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./App.vue?vue&type=script&setup=true&lang=js */
+
+/*! vant/es/button/style/index */
+
+/*! vue */
+
+/*! vant/es */
+
+/*! ./view.page_not_found.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.page_not_found.vue?vue&type=script&setup=true&lang=js */
+
+/*! core-js/modules/esnext.iterator.constructor.js */
+
+/*! vue */
+
+/*! ../store/flights */
+
+/*! vant/es/popup/style/index */
+
+/*! vant/es */
+
+/*! ./cmp.booking_traveler.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.booking_traveler.vue?vue&type=script&setup=true&lang=js */
+
+/*! core-js/modules/es.error.cause.js */
+
+/*! vant/es/cell-group/style/index */
+
+/*! core-js/modules/esnext.async-iterator.map.js */
+
+/*! ../components/cmp.flights_item.vue */
+
+/*! vant/es/steps/style/index */
 
 /*! pinia */
 
+/*! pinia */
+
+/*! vant/es */
+
+/*! vant/es/cell-group/style/index */
+
+/*! core-js/modules/esnext.set.some.js */
+
 /*! vant/es/cell/style/index */
 
-/*! ./views/view.search_form.vue */
+/*! vant/es/cell-group/style/index */
 
-/*! ./index.css */
+/*! vue */
+
+/*! vant/es */
+
+/*! ../store/locations */
+
+/*! core-js/modules/esnext.iterator.constructor.js */
+
+/*! vue */
+
+/*! vue */
+
+/*! vue-router */
+
+/*! vant/es */
+
+/*! ../../node_modules/vue-loader/dist/exportHelper.js */
+
+/*! ./popup.travelers_info.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.travelers_info.vue?vue&type=script&setup=true&lang=js */
+
+/*! ../store/flights */
+
+/*! vant/es */
+
+/*! vant/es/cell/style/index */
+
+/*! core-js/modules/es.array.push.js */
+
+/*! @config */
 
 /*! core-js/modules/esnext.set.filter.js */
 
 /*! vue */
 
 /*! ./cmp.phone_field.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.phone_field.vue?vue&type=script&setup=true&lang=js */
+
+/*! ./views/view.travelers_form.vue */
+
+/*! core-js/modules/esnext.iterator.find.js */
 
 /*! vant/es/icon/style/index */
 
@@ -26,6 +138,8 @@
 
 /*! vant/es */
 
+/*! vant */
+
 /*! vue */
 
 /*! ../components/cmp.travelers_traveler.vue */
@@ -37,6 +151,8 @@
 /*! ./cmp.flight_details_variant_point.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flight_details_variant_point.vue?vue&type=script&setup=true&lang=js */
 
 /*! vant/es */
+
+/*! ./router */
 
 /*! ../components/popup.travelers_selection.vue */
 
@@ -54,9 +170,9 @@
 
 /*! vant/es/field/style/index */
 
-/*! moment */
-
 /*! pinia */
+
+/*! core-js/modules/es.error.cause.js */
 
 /*! vue */
 
@@ -65,8 +181,6 @@
 /*! vant/es/button/style/index */
 
 /*! ./cmp.flights_item_variant.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item_variant.vue?vue&type=script&setup=true&lang=js */
-
-/*! pinia */
 
 /*! core-js/modules/esnext.iterator.map.js */
 
@@ -82,7 +196,11 @@
 
 /*! vant/es/nav-bar/style/index */
 
+/*! ./store/app */
+
 /*! core-js/modules/es.array.push.js */
+
+/*! axios */
 
 /*! ../components/popup.datepicker.vue */
 
@@ -93,8 +211,6 @@
 /*! core-js/modules/esnext.async-iterator.find.js */
 
 /*! ./view.travelers_form.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.travelers_form.vue?vue&type=script&setup=true&lang=js */
-
-/*! ./app */
 
 /*! ./popup.travelers_selection.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.travelers_selection.vue?vue&type=script&setup=true&lang=js */
 
@@ -120,9 +236,13 @@
 
 /*! vant/es/tag/style/index */
 
+/*! axios */
+
 /*! ./cmp.flight_details_variant.vue */
 
 /*! core-js/modules/esnext.iterator.filter.js */
+
+/*! @vant/touch-emulator */
 
 /*! vue */
 
@@ -134,11 +254,15 @@
 
 /*! ./view.search_form.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.search_form.vue?vue&type=script&setup=true&lang=js */
 
+/*! core-js/modules/esnext.iterator.map.js */
+
 /*! vue */
 
 /*! ../components/cmp.flight_details_variant.vue */
 
 /*! vant/es/config-provider/style/index */
+
+/*! pinia */
 
 /*! ../store/theme */
 
@@ -148,19 +272,25 @@
 
 /*! vant/es */
 
-/*! vant/es/cell/style/index */
+/*! vant/es/locale/lang/ru-RU */
 
 /*! core-js/modules/esnext.set.join.js */
 
-/*! @config */
+/*! vant/es/cell/style/index */
+
+/*! core-js/modules/esnext.iterator.constructor.js */
 
 /*! moment */
 
 /*! core-js/modules/esnext.set.symmetric-difference.v2.js */
 
+/*! core-js/modules/esnext.json.parse.js */
+
 /*! vue */
 
 /*! vant/es */
+
+/*! ./views/view.booking.vue */
 
 /*! ./popup.locations.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.locations.vue?vue&type=script&setup=true&lang=js */
 
@@ -170,15 +300,17 @@
 
 /*! vue */
 
-/*! ./App.vue */
-
-/*! ./app */
-
 /*! vant/es */
 
 /*! ./popup.flight_info.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.flight_info.vue?vue&type=script&setup=true&lang=js */
 
+/*! pinia */
+
 /*! ./view.search_form.vue.css?vue&type=style&index=0&id=3ce06f4a&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.search_form.vue?vue&type=style&index=0&id=3ce06f4a&scoped=true&lang=css */
+
+/*! ./views/view.search_form.vue */
+
+/*! ./index.css */
 
 /*! vant/es */
 
@@ -188,13 +320,7 @@
 
 /*! vant/es/search/style/index */
 
-/*! vue-router */
-
-/*! vant/lib/index.css */
-
 /*! vue */
-
-/*! vant/es/config-provider/style/index */
 
 /*! vant/es/field/style/index */
 
@@ -226,11 +352,11 @@
 
 /*! vant/es */
 
+/*! moment */
+
 /*! vant/es/cell/style/index */
 
 /*! vant/es */
-
-/*! core-js/modules/esnext.async-iterator.find.js */
 
 /*! vant/es */
 
@@ -239,8 +365,6 @@
 /*! vue-router */
 
 /*! ./popup.datepicker.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.datepicker.vue?vue&type=script&setup=true&lang=js */
-
-/*! ./travelers */
 
 /*! ./popup.travelers_selection.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.travelers_selection.vue?vue&type=script&setup=true&lang=js */
 
@@ -256,15 +380,17 @@
 
 /*! vue */
 
-/*! ./cmp.flights_item_variant_layover.vue.css?vue&type=style&index=0&id=2263733e&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item_variant_layover.vue?vue&type=style&index=0&id=2263733e&scoped=true&lang=css */
-
 /*! vant/es */
+
+/*! ./cmp.flights_item_variant_layover.vue.css?vue&type=style&index=0&id=2263733e&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item_variant_layover.vue?vue&type=style&index=0&id=2263733e&scoped=true&lang=css */
 
 /*! vue */
 
 /*! ../../node_modules/vue-loader/dist/exportHelper.js */
 
 /*! ../store/travelers */
+
+/*! core-js/modules/es.array.push.js */
 
 /*! vant/es/cell-group/style/index */
 
@@ -273,6 +399,8 @@
 /*! ./cmp.phone_field.vue */
 
 /*! ./popup.search_form.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.search_form.vue?vue&type=script&setup=true&lang=js */
+
+/*! ./app */
 
 /*! moment */
 
@@ -284,21 +412,19 @@
 
 /*! vue */
 
+/*! pinia */
+
 /*! vant/es */
 
 /*! pinia */
 
 /*! ./cmp.phone_field.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.phone_field.vue?vue&type=script&setup=true&lang=js */
 
-/*! moment */
-
 /*! ../store/theme */
 
 /*! vant/es/nav-bar/style/index */
 
 /*! ../../node_modules/vue-loader/dist/exportHelper.js */
-
-/*! vue */
 
 /*! vant/es/image/style/index */
 
@@ -334,8 +460,6 @@
 
 /*! vant/es */
 
-/*! core-js/modules/web.url-search-params.size.js */
-
 /*! core-js/modules/esnext.set.difference.js */
 
 /*! ../store/theme */
@@ -353,8 +477,6 @@
 /*! vant/es/config-provider/style/index */
 
 /*! core-js/modules/esnext.async-iterator.filter.js */
-
-/*! ./views/view.flight_info.vue */
 
 /*! ./view.booking.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.booking.vue?vue&type=script&setup=true&lang=js */
 
@@ -378,15 +500,15 @@
 
 /*! vant/es/field/style/index */
 
-/*! primeicons/primeicons.css */
+/*! ./App.vue */
+
+/*! ./app */
 
 /*! vant/es */
 
 /*! vant */
 
 /*! core-js/modules/esnext.set.symmetric-difference.js */
-
-/*! vue */
 
 /*! vant/es */
 
@@ -398,19 +520,21 @@
 
 /*! core-js/modules/esnext.set.delete-all.js */
 
-/*! @config */
-
 /*! vant/es */
+
+/*! vue-router */
 
 /*! core-js/modules/esnext.set.find.js */
 
 /*! vant/es */
 
-/*! pinia */
+/*! vant/lib/index.css */
 
 /*! ./popup.gender.vue */
 
 /*! vant/es */
+
+/*! vant/es/config-provider/style/index */
 
 /*! vant/es */
 
@@ -424,13 +548,13 @@
 
 /*! vant/es */
 
-/*! pinia */
-
 /*! vue */
 
 /*! vant/es */
 
 /*! ./App.vue.js?vue&type=script&setup=true&lang=js!=!-!../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./App.vue?vue&type=script&setup=true&lang=js */
+
+/*! core-js/modules/esnext.async-iterator.find.js */
 
 /*! vant/es */
 
@@ -443,6 +567,8 @@
 /*! core-js/modules/esnext.iterator.filter.js */
 
 /*! vant/es */
+
+/*! ./travelers */
 
 /*! vant */
 
@@ -472,13 +598,13 @@
 
 /*! vue */
 
-/*! vant/es */
-
-/*! pinia */
+/*! moment */
 
 /*! vant/es */
 
 /*! pinia */
+
+/*! vant/es */
 
 /*! moment */
 
@@ -516,27 +642,21 @@
 
 /*! ../components/popup.search_form.vue */
 
-/*! pinia */
-
-/*! core-js/modules/web.url-search-params.delete.js */
+/*! vant/es/stepper/style/index */
 
 /*! vue */
 
 /*! vant/es */
 
-/*! vant/es/stepper/style/index */
-
 /*! pinia */
 
-/*! core-js/modules/es.array.push.js */
-
 /*! ./popup.travelers_info.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.travelers_info.vue?vue&type=script&setup=true&lang=js */
+
+/*! core-js/modules/web.url-search-params.size.js */
 
 /*! vant/es */
 
 /*! vant/es/action-bar/style/index */
-
-/*! core-js/modules/es.error.cause.js */
 
 /*! vant/es */
 
@@ -544,13 +664,17 @@
 
 /*! core-js/modules/esnext.iterator.find.js */
 
+/*! vue */
+
+/*! vant/es */
+
 /*! vant/es */
 
 /*! ../store/flights */
 
-/*! vant/es */
-
 /*! core-js/modules/esnext.set.is-superset-of.js */
+
+/*! @config */
 
 /*! vant/es/popup/style/index */
 
@@ -562,27 +686,23 @@
 
 /*! ./view.booking.vue.css?vue&type=style&index=0&id=49283040&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.booking.vue?vue&type=style&index=0&id=49283040&scoped=true&lang=css */
 
+/*! ./views/view.flight_info.vue */
+
 /*! vue */
 
 /*! ./view.suggested_flights.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.suggested_flights.vue?vue&type=script&setup=true&lang=js */
 
 /*! vant/es */
 
-/*! vant/es */
-
-/*! core-js/modules/web.url-search-params.has.js */
-
-/*! ./views/view.suggested_flights.vue */
-
 /*! ./cmp.flight_details_variant_point.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flight_details_variant_point.vue?vue&type=script&setup=true&lang=js */
-
-/*! axios */
 
 /*! ./cmp.date_field.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.date_field.vue?vue&type=script&setup=true&lang=js */
 
 /*! core-js/modules/esnext.async-iterator.map.js */
 
 /*! vue */
+
+/*! primeicons/primeicons.css */
 
 /*! ../components/cmp.flights_item_variant_layover.vue */
 
@@ -596,23 +716,27 @@
 
 /*! vant/es/step/style/index */
 
+/*! vue */
+
 /*! ./popup.datepicker.vue.css?vue&type=style&index=0&id=ee9bd3a8&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.datepicker.vue?vue&type=style&index=0&id=ee9bd3a8&scoped=true&lang=css */
 
 /*! vant/es */
+
+/*! @config */
 
 /*! vue */
 
 /*! vant/es/search/style/index */
 
-/*! ./views/view.page_not_found.vue */
-
 /*! vant/es */
+
+/*! ./cmp.flights_item.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item.vue?vue&type=script&setup=true&lang=js */
 
 /*! ./cmp.flight_details_variant_point.vue.css?vue&type=style&index=0&id=37d35c1e&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flight_details_variant_point.vue?vue&type=style&index=0&id=37d35c1e&scoped=true&lang=css */
 
 /*! vue */
 
-/*! ./cmp.flights_item.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item.vue?vue&type=script&setup=true&lang=js */
+/*! pinia */
 
 /*! vant/es */
 
@@ -622,19 +746,13 @@
 
 /*! vant/es/nav-bar/style/index */
 
-/*! vue */
+/*! pinia */
 
 /*! vant/es/popup/style/index */
-
-/*! core-js/modules/es.error.cause.js */
-
-/*! core-js/modules/esnext.async-iterator.map.js */
 
 /*! vant/es/popup/style/index */
 
 /*! ../../node_modules/vue-loader/dist/exportHelper.js */
-
-/*! vue */
 
 /*! ./cmp.travelers_traveler.vue.css?vue&type=style&index=0&id=68bda41d&scoped=true&lang=css!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.travelers_traveler.vue?vue&type=style&index=0&id=68bda41d&scoped=true&lang=css */
 
@@ -646,11 +764,9 @@
 
 /*! vant/es */
 
-/*! pinia */
+/*! ./cmp.flights_item.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item.vue?vue&type=script&setup=true&lang=js */
 
 /*! vant/es/nav-bar/style/index */
-
-/*! ./cmp.flights_item.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item.vue?vue&type=script&setup=true&lang=js */
 
 /*! vant/es/loading/style/index */
 
@@ -714,19 +830,15 @@
 
 /*! vant/es/cell/style/index */
 
-/*! core-js/modules/es.array.push.js */
-
 /*! core-js/modules/esnext.iterator.constructor.js */
 
 /*! ../store/locations */
 
-/*! @config */
-
 /*! vant/es */
 
 /*! vant/es */
 
-/*! ./views/view.travelers_form.vue */
+/*! pinia */
 
 /*! vue */
 
@@ -734,13 +846,9 @@
 
 /*! vant/es */
 
-/*! core-js/modules/esnext.iterator.find.js */
-
 /*! core-js/modules/es.array.push.js */
 
 /*! core-js/modules/es.array.push.js */
-
-/*! vant */
 
 /*! vant/es */
 
@@ -754,31 +862,33 @@
 
 /*! core-js/modules/es.array.push.js */
 
-/*! ./router */
-
-/*! moment */
-
 /*! vue */
 
 /*! moment */
 
-/*! ./store/app */
+/*! moment */
 
 /*! ../components/popup.flight_info.vue */
 
+/*! pinia */
+
 /*! vant/es/button/style/index */
+
+/*! core-js/modules/web.url-search-params.delete.js */
 
 /*! vue-router */
 
 /*! ../data/ru.citizenships.json */
 
+/*! core-js/modules/es.array.push.js */
+
 /*! ./popup.locations.vue */
 
 /*! core-js/modules/es.error.cause.js */
 
-/*! core-js/modules/esnext.async-iterator.map.js */
-
 /*! ../store/flights */
+
+/*! core-js/modules/esnext.async-iterator.map.js */
 
 /*! vue */
 
@@ -808,13 +918,17 @@
 
 /*! ./view.travelers_form.vue.js?vue&type=script&setup=true&lang=js!=!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.travelers_form.vue?vue&type=script&setup=true&lang=js */
 
+/*! vant/es */
+
 /*! vue */
+
+/*! core-js/modules/web.url-search-params.has.js */
+
+/*! ./views/view.suggested_flights.vue */
 
 /*! vant/es/cell-group/style/index */
 
 /*! vant/es/list/style/index */
-
-/*! core-js/modules/es.array.push.js */
 
 /*! axios */
 
@@ -829,119 +943,3 @@
 /*! vant/es */
 
 /*! vue */
-
-/*! core-js/modules/esnext.set.is-disjoint-from.js */
-
-/*! vue */
-
-/*! ./popup.citizenships.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.citizenships.vue?vue&type=script&setup=true&lang=js */
-
-/*! vant/es */
-
-/*! vant/es/calendar/style/index */
-
-/*! vant/es/nav-bar/style/index */
-
-/*! ../../node_modules/vue-loader/dist/exportHelper.js */
-
-/*! vant/es */
-
-/*! vant/es/nav-bar/style/index */
-
-/*! vue */
-
-/*! core-js/modules/esnext.set.is-subset-of.v2.js */
-
-/*! vant/es/list/style/index */
-
-/*! ./cmp.flights_item_variant.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.flights_item_variant.vue?vue&type=script&setup=true&lang=js */
-
-/*! vant/es/cell-group/style/index */
-
-/*! vue */
-
-/*! ./popup.locations.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.locations.vue?vue&type=script&setup=true&lang=js */
-
-/*! axios */
-
-/*! ../store/locations */
-
-/*! vue */
-
-/*! ../store/theme */
-
-/*! vant/es/button/style/index */
-
-/*! vue */
-
-/*! vant/es */
-
-/*! vant/es */
-
-/*! ./App.vue.js?vue&type=script&setup=true&lang=js!=!../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./App.vue?vue&type=script&setup=true&lang=js */
-
-/*! core-js/modules/esnext.iterator.constructor.js */
-
-/*! ./view.page_not_found.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./view.page_not_found.vue?vue&type=script&setup=true&lang=js */
-
-/*! ../store/flights */
-
-/*! @vant/touch-emulator */
-
-/*! vant/es/popup/style/index */
-
-/*! vant/es */
-
-/*! vant/es/cell-group/style/index */
-
-/*! ../components/cmp.flights_item.vue */
-
-/*! ./cmp.booking_traveler.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./cmp.booking_traveler.vue?vue&type=script&setup=true&lang=js */
-
-/*! vant/es/steps/style/index */
-
-/*! core-js/modules/esnext.iterator.map.js */
-
-/*! pinia */
-
-/*! pinia */
-
-/*! vant/es */
-
-/*! vant/es/cell-group/style/index */
-
-/*! core-js/modules/esnext.set.some.js */
-
-/*! vant/es/cell/style/index */
-
-/*! vant/es/cell-group/style/index */
-
-/*! vant/es/locale/lang/ru-RU */
-
-/*! vue */
-
-/*! core-js/modules/esnext.iterator.constructor.js */
-
-/*! vant/es */
-
-/*! ../store/locations */
-
-/*! core-js/modules/esnext.iterator.constructor.js */
-
-/*! vue */
-
-/*! vue */
-
-/*! core-js/modules/esnext.json.parse.js */
-
-/*! vue-router */
-
-/*! vant/es */
-
-/*! ./views/view.booking.vue */
-
-/*! ../../node_modules/vue-loader/dist/exportHelper.js */
-
-/*! ./popup.travelers_info.vue.js?vue&type=script&setup=true&lang=js!=!-!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-vue-components!../../node_modules/unplugin/dist/rspack/loaders/transform.js?unpluginName=unplugin-auto-import!builtin:swc-loader??clonedRuleSet-2.use[0]!../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./popup.travelers_info.vue?vue&type=script&setup=true&lang=js */
-
-/*! ../store/flights */
