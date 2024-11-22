@@ -2,7 +2,7 @@ const locations = require("../../inmems/locations");
 const countries = require("../../inmems/countries");
 module.exports.locationsByCode = {};
 module.exports.countriesByCode = {};
-module.exports.handle = function(rq, rs) {
+module.exports.handle = function (rq, rs, rqRaw, rsRaw) {
   if (!rs.Result || !rs.Result.Suggestions) {
     return [];
   }
